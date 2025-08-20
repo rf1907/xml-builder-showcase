@@ -25,10 +25,3 @@ It provides a clean object-oriented interface for:
 This project is originally based on [tia-xml-generator](https://github.com/Repsay/tia-portal-xml-generator), licensed under the MIT License.
 Significant modifications and extensions were made for this version.
 
-
-## 🚀 Getting Started
-
-You can clone the repo and use the module directly:
-
-```bash
-git clone https://github.com/rf1907/xmlbuilder.git
