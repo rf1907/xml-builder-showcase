@@ -19,9 +19,17 @@ It provides a clean object-oriented interface for:
 - Attribute filtering, insertion, and mutation
 - Compatible with the Python standard library (no dependencies)
 
+
+---
+
+## About this Repository
+This repository is a showcase of its original repo for career purposes.  
+The actual source code of the project is kept private until further development for public purposes.
+
 ---
 
 ## Acknowledgment
 This project is originally based on [tia-xml-generator](https://github.com/Repsay/tia-portal-xml-generator), licensed under the MIT License.
 Significant modifications and extensions were made for this version.
+  
 
